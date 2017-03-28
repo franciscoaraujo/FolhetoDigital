@@ -1,0 +1,1 @@
+org.jooq.generated.Tables
