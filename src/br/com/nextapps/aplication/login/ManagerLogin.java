@@ -2,6 +2,7 @@ package br.com.nextapps.aplication.login;
 
 import br.com.nextapps.aplication.login.dao.DAOLogin;
 import br.com.nextapps.aplication.login.data.DataLogin;
+
 import java.sql.SQLException;
 
 /**

@@ -4,7 +4,11 @@ import java.io.Serializable;
 
 public class Categoria  implements Serializable{
 
-    private final int codigo;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private final int codigo;
     private final int codigoMercado;
     private final String nome;
 

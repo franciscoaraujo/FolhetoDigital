@@ -1,6 +1,5 @@
 package br.com.nextapps.aplication.login;
 
-import br.com.nextapps.aplication.login.data.DataLogin;
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;
 import io.vertx.core.http.HttpServer;
@@ -8,6 +7,8 @@ import io.vertx.ext.web.Router;
 import io.vertx.ext.web.handler.BodyHandler;
 import io.vertx.ext.web.handler.StaticHandler;
 import java.sql.SQLException;
+
+import br.com.nextapps.aplication.login.data.DataLogin;
 
 /**
  *

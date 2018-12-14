@@ -1,6 +1,5 @@
-package br.com.nextapps.aplication.login.dao;
 
-import br.com.nextapps.aplication.login.data.DataLogin;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -13,6 +12,8 @@ import org.jooq.SQLDialect;
 import static org.jooq.generated.tables.Login.LOGIN;
 import static org.jooq.generated.tables.Token.TOKEN;
 import org.jooq.impl.DSL;
+
+import br.com.nextapps.aplication.login.data.DataLogin;
 
 /**
  * @author francisco(jamal)

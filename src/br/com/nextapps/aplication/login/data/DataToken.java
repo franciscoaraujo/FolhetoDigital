@@ -3,6 +3,8 @@ package br.com.nextapps.aplication.login.data;
 import java.io.Serializable;
 import java.util.Objects;
 
+import br.com.nextapps.aplication.login.data.DataToken;
+
 /**
  *
  * @author francisco(jamal)
